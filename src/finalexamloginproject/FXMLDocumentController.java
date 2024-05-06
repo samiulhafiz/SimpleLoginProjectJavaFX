@@ -21,7 +21,7 @@ import java.util.ResourceBundle;
 /**
  * FXML Controller class
  *
- * @author sanjina
+ * @author user
  */
 public class FXMLDocumentController implements Initializable {
 

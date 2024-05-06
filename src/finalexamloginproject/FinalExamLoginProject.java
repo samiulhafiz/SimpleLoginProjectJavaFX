@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author sanjina
+ * @author user
  */
 public class FinalExamLoginProject extends Application {
     
